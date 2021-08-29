@@ -5,6 +5,7 @@ public class CompanyInfo
 	public void cmnyName()
 	{
 		System.out.println("Company name is: Hcl");
+		System.out.println("Company name is: Infosys");
 	}
 	
 	public void cmnyId() 
